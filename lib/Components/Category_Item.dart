@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 
+// ignore: must_be_immutable
 class category extends StatelessWidget {
   category({this.text , this.color , this.ontap});
   String? text;
